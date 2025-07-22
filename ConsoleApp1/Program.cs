@@ -5,6 +5,8 @@ using ArrayApplication;
 using StringApplication;
 using StructApplication;
 using EnumApplication;
+
+
 namespace ConsoleApp1
 {
     class Program
@@ -19,7 +21,8 @@ namespace ConsoleApp1
             // StringProgram.Run(args);
             // TestStructure.Run(args);
             // EnumApplication.TestEnum.Run(args);
-            AttributeApplication.RunTestConAttribute.Run(args);
+            // AttributeApplication.RunTestConAttribute.Run(args);
+            BugFixApplication.ExecuteRectangle.Run(args);
         }
     }
 }
