@@ -4,7 +4,7 @@ using CalculatorApplication;
 using ArrayApplication;
 using StringApplication;
 using StructApplication;
-
+using EnumApplication;
 namespace ConsoleApp1
 {
     class Program
@@ -17,7 +17,9 @@ namespace ConsoleApp1
             // NullableAtShow.Run(args);
             // MyArray.Run(args);
             // StringProgram.Run(args);
-            TestStructure.Run(args);
+            // TestStructure.Run(args);
+            // EnumApplication.TestEnum.Run(args);
+            AttributeApplication.RunTestConAttribute.Run(args);
         }
     }
 }
