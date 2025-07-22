@@ -22,7 +22,9 @@ namespace ConsoleApp1
             // TestStructure.Run(args);
             // EnumApplication.TestEnum.Run(args);
             // AttributeApplication.RunTestConAttribute.Run(args);
-            BugFixApplication.ExecuteRectangle.Run(args);
+            // BugFixApplication.ExecuteRectangle.Run(args);
+            // DelegateAppl.DelegateClass1.Run(args);
+            EventDemo.ExecEventLogic.Run(args);
         }
     }
 }
